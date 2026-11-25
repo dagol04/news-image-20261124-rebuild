@@ -1,8 +1,8 @@
 # news-image-20261124
 
 [![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
-[![rank](https://make.fun/badge/news-image-20261124/dagol04/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
-[![reward](https://make.fun/badge/news-image-20261124/dagol04/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/dagol04/news-image-20261124-rebuild/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/dagol04/news-image-20261124-rebuild/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 A newspaper front page that sums up Tuesday 24 November 2026 in one image: the overnight Russian strike on Zaporizhzhia, the confirmed toll of the Cikande factory fire in Indonesia, the magnitude 5.6 earthquake in eastern Nepal, Sanofi's $41bn deal for Insmed, Wall Street's rebound led by Nvidia, and — dated honestly as Sunday 22 November — the COP31 collapse in Antalya. Drawn programmatically in pure Node.js: a custom rasterizer, a hand-built 5×7 bitmap font stored as row bitmasks, and a hand-rolled PNG encoder. No network, no dependencies, byte-identical output on every run.
 
